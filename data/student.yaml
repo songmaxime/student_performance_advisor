@@ -1,0 +1,62 @@
+# GP (Gabriel Pereira) or MS (Mousinho da Silveira)
+school: GP
+# M (Male) or F (Female)
+sex: M
+# 15 to 22
+age: 17
+# U (Urban) or R (Rural)
+address: U
+# LE3 (Lesser or equal to 3) or GT3 (Greater than 3)
+famsize: GT3
+# Parent's status : T (Together) or A (Apart)
+Pstatus: T
+# Mother's education : 0 (None), 1 (Primary education), 2 (5th to 9th grade), 3 (Secondary education) or 4 (Higher education)
+Medu: 1
+# Father's education : same as above
+Fedu: 2
+# Mother's job : teacher, health, services (administrative or police), at home and other
+Mjob: teacher
+# Father's job : same as above
+Fjob: teacher
+# reason to choose this school : home (close to), reputation, course (preference) and other
+reason: home
+# student's guardian : mother, father or other
+guardian: father
+# 1 (<15min), 2 (15-30min), 3 (30-60min) or 4 (>60min)
+traveltime: 3
+# weekly study time : 1 (less than 2h), 2 (2-5h), 3 (5-10h) or 4 (>10h)
+studytime: 3
+# number of past class failures : 0, 1, 2, 3
+failures: 0
+# extra educational support : yes or no
+schoolsup: no
+# yes or non
+famsup: no
+# yes or no
+paid: no
+# extra-curricular activities : yes or no
+activities: no
+# yes or no
+nursery: no
+# wants to take higher education : yes or no
+higher: no
+# yes or no
+internet: yes
+# yes or no
+romantic: no
+# quality of family relationships : 1 to 5
+famrel: 2
+# free time after school : 1 to 5
+freetime: 2
+# going out with friends : 1 to 5
+goout: 3
+# workday alcohol consumption : 1 to 5
+Dalc: 3
+# weekend alcohol consumption : 1 to 5
+Walc: 2
+# 1 to 5
+health: 3
+# 0 to 93
+absences: 5
+# grade in the second period : 0 to 20
+G2: 16
