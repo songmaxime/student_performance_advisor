@@ -1,5 +1,7 @@
 # Student Performance advisor
 
+The project repository can be found at the following link : https://github.com/songmaxime/student_performance_advisor
+
 The objective of this python project is to deploy a solution that can give personalized advice
 to student in order to improve their grade (G3 variables in the dataset).
 
